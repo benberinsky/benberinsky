@@ -1,7 +1,10 @@
 ## Hi there 👋
 My name is Benjamin Berinsky and I am a second year student in the University of Virginia's School of data science
+
 I am interested in working in the field of sports analytics
+
 I have taken various coding and data science courses at UVA and I am currently taking DS 2022 and DS 2026
+
 I am a member of the UVA Sports Statistics and Analytics club where we develop independent projects relating to sports
 
 <!--
