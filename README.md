@@ -1,3 +1,4 @@
+Benjamin Berinsky
 ## Hi there 👋
 My name is Benjamin Berinsky and I am a second year student in the University of Virginia's School of data science
 
