@@ -1,24 +1,13 @@
-Benjamin Berinsky
-## Hi there 👋
-My name is Benjamin Berinsky and I am a second year student in the University of Virginia's School of data science
+markdown
+# Hi, I’m Benjamin Berinsky 👋  
 
-I am interested in working in the field of sports analytics
+🎓 **Data Science Student @ University of Virginia** | 🏀 **Sports Analytics Researcher**  
+📊 Passionate about applying **machine learning, computer vision, and statistical modeling** to uncover insights in sports performance and strategy.  
 
-I have taken various coding and data science courses at UVA and I am currently taking DS 2022 and DS 2026
+---
 
-I am a member of the UVA Sports Statistics and Analytics club where we develop independent projects relating to sports
-
-<!--
-**benberinsky/benberinsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 About Me
+- Pursuing a **B.S. in Data Science with a minor in Statistics**.  
+- Research Assistant at the **UVA School of Data Science** focusing on basketball and football analytics — developing dashboards, applying computer vision, and supporting recruiting/coaching staff with actionable insights.  
+- 👨‍🏫 Experienced in teaching and mentoring (Teaching Assistant for Intro to Programming at UVA, Lead Instructor for Python/AI at ID Tech MIT).  
+---
